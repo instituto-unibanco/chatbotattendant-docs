@@ -1,0 +1,32 @@
+site_name: Chatbot SGP
+site_url: https://instituto-unibanco.github.io/chatbotattendant-docs/
+repo_url: https://github.com/instituto-unibanco/chatbotattendant
+repo_name: instituto-unibanco/chatbotattendant
+docs_dir: docs
+
+nav:
+  - Visão Geral: index.md
+  - Arquitetura:
+    - Pilha Tecnológica: arquitetura/visao-geral.md
+    - Custos Operacionais: arquitetura/custos.md
+  - Uso:
+    - Configuração: uso/configuracao.md
+    - Execução Local: uso/execucao-local.md
+    - Deploy em Produção: uso/execucao-producao.md
+  - Integração:
+    - Integração com o SGP: integracao/sgp.md
+    - Autenticação: integracao/autenticacao.md
+  - Governança:
+    - Licença de Uso: governanca/licenca.md
+    - Base de Conhecimento: governanca/base-de-conhecimento.md
+  - Segurança: seguranca.md
+  - Internalização (STIC): internalizacao.md
+
+theme:
+  name: material
+  language: pt
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/instituto-unibanco
