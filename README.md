@@ -1,6 +1,6 @@
 # chatbotattendant-docs
 
-Documentação do **Chatbot SGP** — assistente virtual de atendimento N1 para apoiar a implementação do Sistema Gestão Presente.
+Documentação de Assistente Virtual de Atendimento N1 para apoiar a implementação de sistemas de gestão.
 
 Publicada em: **https://instituto-unibanco.github.io/chatbotattendant-docs/**
 
